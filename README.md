@@ -1,4 +1,4 @@
-# EyeFocusTracker
+# Screen Focus Tracker
 
 A focus tracking tool developed as part of a personal project. This system leverages advanced computer vision and machine learning techniques to measure focus based on eye and face orientation.
 
